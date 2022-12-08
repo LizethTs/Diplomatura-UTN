@@ -1,0 +1,10 @@
+Compras:
+
+manzana
+durazno
+naranja
+banana
+leche
+te
+galletitas
+yerba

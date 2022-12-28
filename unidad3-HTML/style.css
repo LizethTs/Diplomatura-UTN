@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #7c7975;
   padding: 35px;
 }
@@ -23,33 +23,39 @@ h1 {
   text-align: center;
 }
 
+.textoDescripcion {
+  column-count: 2;
+  column-gap: 25px;
+  word-spacing: 3px;
+}
+
 .caracteristicas {
-    margin-top: 20px;
-    margin-bottom: 35px;
-    border-bottom: 2px solid #df9292 ;
+  margin-top: 20px;
+  margin-bottom: 35px;
+  border-bottom: 2px solid #df9292;
 }
 
 .imagenDatos {
-    display: flex;
-    justify-content:space-evenly;
-    margin: auto;
-    width: 600px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  width: 600px;
 }
 
 .fotoPerfil {
-    width: 150px;
-} 
+  width: 150px;
+}
 
 img {
-    width: 100%;
-    border-radius: 20px;
-    margin-bottom: 15px;
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 15px;
 }
 
 h2 {
   color: #7c7975;
   margin-bottom: 10px;
- text-decoration: underline ;
+  text-decoration: underline;
 }
 
 ul {
@@ -57,7 +63,7 @@ ul {
 }
 
 li {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 p {

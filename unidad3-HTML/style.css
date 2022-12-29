@@ -64,6 +64,12 @@ ul {
 
 li {
   margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.iconoPersonal {
+    color:#df9292;
+    font-size: 1.3rem;
 }
 
 p {
